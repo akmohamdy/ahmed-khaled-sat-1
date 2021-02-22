@@ -19,5 +19,5 @@ else {
 	$x= 0;
 	echo $x ."<br>"; }
 
-
+//comment
 ?>
